@@ -13,7 +13,7 @@ code {
 }
 
 label {
-  display: block;
+  display: inline;
 }
 
 .complete {
