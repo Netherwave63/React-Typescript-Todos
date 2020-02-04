@@ -1,0 +1,12 @@
+dependencies
+npm install --save redux react-redux
+npm install --save @types/react-redux
+npm install typesafe-actions
+
+constants -> use enum
+export enum actionTypes {
+	ADD = 'ADD',
+	DELETE = 'DELETE',
+}
+
+wei ren san hui
